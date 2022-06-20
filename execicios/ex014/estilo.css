@@ -1,0 +1,22 @@
+body {
+    background: yellow;
+    text-align: justify;
+}
+
+h1 {
+    color: red;
+}
+
+div#km {
+    font: normal 15pt Arial;
+}
+
+div#res {
+    border-radius: 100px;
+    box-shadow: 6px 6px 8px black;
+    width: 600px;
+    text-align: center;
+    background-color: aqua;
+    font: normal 17pt Arial;
+    color: black;
+}

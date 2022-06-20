@@ -1,0 +1,16 @@
+header{
+    text-align: center;
+    background-color: greenyellow;
+    width: 300px;
+    margin: auto;
+}
+
+
+section {
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(205, 250, 137);
+    padding: 12px;
+    width: 500px;
+    margin: auto;
+}

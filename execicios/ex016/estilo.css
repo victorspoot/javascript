@@ -1,0 +1,26 @@
+body {
+    background: rgb(212, 173, 74);
+    text-align: center;
+    
+}
+
+h1{
+    color: red;
+    text-shadow: 3px 3px 6px black;
+}
+
+div#msg {
+    font: normal 13pt Arial;
+    border-radius: 30px;
+    background-color: orange;
+    text-align: center;
+    box-shadow: 6px 6px 8px black;
+    width: 500px;
+    margin: auto;
+}
+
+div#res {
+    font: normal 17pt Arial;
+    padding: 15px;
+
+}

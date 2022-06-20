@@ -1,0 +1,22 @@
+body {
+    font: normal 24px Arial;
+    background: orange;
+}
+
+section {
+    text-align: center;
+    border-radius: 10px;
+    background: rgb(236, 125, 34);
+    box-shadow: 6px 6px 8px black;
+    width: 670px;
+    margin: auto;
+}
+
+p#p1 {
+    padding: 10px;
+}
+
+footer {
+    font-style: italic;
+    text-align: center;
+}

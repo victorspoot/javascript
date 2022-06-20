@@ -1,0 +1,29 @@
+body {
+    font: normal 18pt Arial;
+    text-align: center;
+    background-color: rgb(219, 255, 205);
+}
+
+header {
+    font: normal 20pt Arial;
+    padding: 8px;
+}
+
+section {
+    font: normal 15pt Arial;
+    border-radius: 50px;
+    background-color: aqua;
+    padding: 10px;
+    box-shadow: 8px 8px 10px white;
+    width: 1000px;
+    margin: auto;
+}
+
+div#res {
+    padding: 8px;
+}
+
+footer {
+    font-style: italic;
+    padding: 10px;
+}

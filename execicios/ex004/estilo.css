@@ -1,0 +1,17 @@
+body {
+    font: normal 15pt Comic;
+    text-align: center;
+}
+
+section {
+    border-radius: 100px;
+    background-color: aqua;
+}
+input {
+    font: normal 20pt Arial;
+    width: 100px;
+}
+div#res {
+    font: normal 20pt Arial;
+    margin-top: 20px; 
+}

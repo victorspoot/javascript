@@ -1,0 +1,28 @@
+body {
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+
+div#retas {
+    color: red;
+    font: normal 15pt Arial;
+} 
+
+input#reta1 {
+    width: 50px;
+}
+
+input#reta2 {
+    width: 50px;
+}
+
+input#reta3 {
+    width: 50px;
+
+}
+
+input#bot {
+    width: 370px;
+    font: normal 11pt Arial;
+}

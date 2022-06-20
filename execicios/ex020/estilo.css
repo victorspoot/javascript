@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+div#msg {
+    border-radius: 10px;
+    background-color: bisque;
+    font-size: large;
+    width: 200px;
+    margin: auto;
+}
+
+
+input#bot {
+    gap: 10px;
+}

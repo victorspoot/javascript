@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+
+header {
+    font: normal 25pt Arial;
+    color: grey;
+    padding: 10px;
+}
+
+div#msg {
+    font: normal 17pt Arial; 
+    color: grey;
+}
+
+div#res {
+    font: normal 20pt Arial;
+    color: red;
+}

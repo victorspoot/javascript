@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+div#msg {
+    font: normal 15pt Arial;
+    color: aliceblue;
+}
+
+h1#h1 {
+    color: aliceblue;
+}
+
+div#res {
+    font: normal 15pt Comic;
+    color: aliceblue;
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio 28</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>
+            Listagem de Terrenos
+        </h1>
+    </header>
+        <h2>
+            Classificação de terrenos
+        </h2>
+        <h3>
+            <P>Abaixo de 100m<sup>2</sup> = TERRENO POPULAR</P>
+            <P>Entre 100m<sup>2</sup> e 500m<sup>2</sup> = TERRENO MASTER</P>
+            <p>Acima de 500m<sup>2</sup> = TERRENO VIP</p>
+        </h3>
+    <section>
+        <div>
+            <p>Digite a largura da área do terreno: <input type="number" name="largura" id="largura"></p>
+            <p>Digite o comprimento da área do terreno: <input type="number" name="comprimento" id="comprimento"></p>
+            <p><input type="button" value="CALCULAR" onclick="carregar()"></p>
+        </div>
+        <div id="res">
+
+        </div>
+    </section>
+    <script src="javascript.js"></script>
+</body>
+</html>

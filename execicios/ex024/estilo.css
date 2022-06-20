@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font: normal 20pt Arial;
+    box-shadow: 4px 4px 6px brown;
+    width: 750px;
+    text-align: center;
+    margin: auto;
+}    
+
+div#msg {
+    text-align: center;
+    font: normal 15pt Arial;
+}
+
+div#res {
+    text-align: center;
+    font: normal 15pt Arial;
+    padding: 10px;
+}

@@ -1,0 +1,16 @@
+body {
+    font: normal 14pt Arial;
+    background-color: aqua;
+    text-align: center;
+}
+
+section {
+    padding: 8px;
+    border: 200px;
+    background-color: rgb(238, 215, 215);
+}
+
+div#res {
+    font: normal 14pt Arial;
+    padding: 8px;
+}

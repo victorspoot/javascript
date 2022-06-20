@@ -1,0 +1,25 @@
+body {
+    font: normal 10pt Arial;
+    color: rgb(245, 175, 175);
+    text-align: center;
+    background-color: black;
+}
+
+section {
+    border-radius: 100px;
+    color: white;
+    padding: 50px;
+    width: 200px;
+    box-shadow: 8px 8px 10px rgba(247, 245, 245, 0.295);
+    margin: auto;
+    background-color: rgba(255, 0, 0, 0.301);
+}
+
+div#no {
+    font: normal 15pt Arial;
+}
+
+div#res {
+    font: normal 15pt Arial;
+}
+

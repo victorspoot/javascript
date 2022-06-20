@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1#h {
+    font: normal 15pt Arial;
+    background-color: greenyellow;
+    border-radius: 40px;
+    width: 600px;
+    text-align: center;
+    margin:auto;
+}
+
+section {
+    border-radius: 40px;
+    background: greenyellow;
+    width: 200px;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 6px 6px 8px green;
+}
+    
+footer {
+    font-style: italic;
+    padding: 8px;
+    background-color: rgb(38, 221, 166);
+    border-radius: 40px;
+    width: 200px;
+    margin: auto;
+    border-spacing: 100px;
+}
+
+input#a {
+    width: 30px;
+    background-color: aquamarine;
+}
+
+input#b {
+    width: 30px;
+    background-color: aquamarine;
+}
+
+input#c {
+    width: 30px;
+    background-color: aquamarine;
+}
+
+input#del {
+    width: 100px;
+    background-color: aqua;
+    padding-bottom: 6px;
+}
+
+div#res {
+    font: normal 15pt Arial;
+    padding: 8px;
+    width: 200px;
+    margin: auto;
+}

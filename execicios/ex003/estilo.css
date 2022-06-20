@@ -1,0 +1,39 @@
+body {
+  background: blue;
+}
+
+header {
+  font: normal 30pt Arial;
+  text-align: center;
+  color: white; 
+
+}
+
+section {
+    background: rgba(144, 144, 245, 0.329);
+    border-radius: 200px;
+    padding: 40px;
+    box-shadow: 5px 5px 10px black;
+    width: 100px px;
+    margin: auto;
+}
+
+div#n {
+    font: normal 15pt Arial;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+div#sal1 {
+    font: normal 15pt Arial;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+div#res {
+    font: normal 15pt Arial;
+    color: yellow;
+    text-align: center;
+}

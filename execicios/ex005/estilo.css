@@ -1,0 +1,21 @@
+body{
+    font: normal 20pt Arial;
+    text-align: center;
+}
+input {
+    font: normal 18pt Arial;
+    width: 50;
+}
+div#res{
+    font: normal 18pt Arial;
+    margin-top: 20px;
+}
+p11#esp{
+    font: normal 18pt Arial;
+    margin-right: 200px;
+}
+
+section {
+    border-radius: 20px;
+    background-color: blueviolet;
+}

@@ -1,0 +1,14 @@
+body {
+    font: normal 15pt Arial;
+    text-align: left;
+    color: aliceblue;
+    background-color: aquamarine;
+}
+
+section {
+    border-radius: 8px;
+    background-color: blue;
+    width: 650px;
+    box-shadow: 6px 6px 8px black;
+
+}

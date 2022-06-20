@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+input#bot {
+    width: 140px;
+}
+
+div#res {
+    font: normal 15pt Arial;
+}
+
+input#p1 {
+    width: 35px;
+}
+
+input#p2 {
+    width: 35px;
+}
