@@ -3,5 +3,4 @@ function ex001() {
     var n = nome.value
     var res = document.querySelector('div#res')
     res.innerHTML = `Prazer em te conhecer ${n}!`
-
 }
