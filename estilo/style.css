@@ -32,16 +32,37 @@ header h1 {
 
 header h2 {
     color: white;
+    margin-top: 8px;
+    text-shadow: 0.8px 0.8px 1px rgba(0, 0, 0, 0.486);
+}
+
+a {
+    color: var(--cor3);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 main {
 
 }
 
-a {
-
+section {
+    background-color: #3176dea1;
+    padding: 40px;
+    box-shadow: 1px 1px 2px black;
+    text-align: justify;
 }
 
-div {
-
+section h1 {
+    padding-bottom: 5px;
+    color: var(--cor3);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.425);
 }
+
+p {
+    line-height: 1.5em;
+}
+
